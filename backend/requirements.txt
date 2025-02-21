@@ -1,0 +1,8 @@
+click>=8.0.0
+fastapi[standard]
+python-dotenv
+slowapi
+starlette
+tiktoken
+tomli
+uvicorn
